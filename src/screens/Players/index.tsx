@@ -8,7 +8,7 @@ import { ButtonIcon } from '@components/ButtonIcon';
 import { Filter } from '@components/Filter';
 import { PlayerCard } from '@components/PlayerCard';
 
-import { Container, Form, HeaderList, NumbersOfPlayers } from './styles';
+import { Container, Form, HeaderList, NumberOfPlayers as NumberOfPlayers } from './styles';
 import { ListEmpty } from '@components/ListEmpty';
 import { Button } from '@components/Button';
 
@@ -50,9 +50,9 @@ export function Players() {
             />
           )}
         />
-        <NumbersOfPlayers>
+        <NumberOfPlayers>
           {players.length}
-        </NumbersOfPlayers>
+        </NumberOfPlayers>
       </HeaderList>
       <FlatList
         data={players}
