@@ -1,6 +1,6 @@
 # IgniteTeams 🎮📱
 
-IgniteTeams é um aplicativo móvel construído com React Native, Expo e TypeScript, projetado para ajudar equipes a gerenciar suas tarefas e projetos com mais eficiência.
+IgniteTeams é um aplicativo móvel construído com React Native, Expo e TypeScript, projetado para ajudar gerenciar equipes  com mais eficiência.
 
 ![App](.github/assets/igniteteams.gif)
 
