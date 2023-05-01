@@ -1,6 +1,6 @@
 # IgniteTeams 🎮📱
 
-IgniteTeams é um aplicativo móvel construído com React Native, Expo e TypeScript, projetado para ajudar gerenciar equipes  com mais eficiência.
+IgniteTeams é um aplicativo construído com React Native, Expo e TypeScript, projetado para ajudar gerenciar equipes  com mais eficiência.
 
 ![App](.github/assets/igniteteams.gif)
 
@@ -8,9 +8,9 @@ IgniteTeams é um aplicativo móvel construído com React Native, Expo e TypeScr
 
 Para instalar o IgniteTeams, siga estes passos:
 
-1. Clone este repositório
-2. Execute o comando `npm install` para instalar as dependências necessárias
-3. Execute o comando `expo start` para iniciar o aplicativo
+1. Clone este repositório.
+2. Execute o comando `npm install` para instalar as dependências necessárias.
+3. Execute o comando `npx expo start` para iniciar o aplicativo.
 
 ## Tecnologias usadas
 
@@ -35,7 +35,6 @@ O IgniteTeams foi construído utilizando as seguintes tecnologias:
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
-
 <br></br>
 
 Projeto desenvolvido com 🖤 por [M4rcotoni](https://github.com/m4rcotoni)
